@@ -43,7 +43,7 @@ st-config - My configuration of st suckless simple terminal
 * Open terminal and run the following commands:
 
   ```shell
-  $ git clone https://github.com/q3aql/st-config
+  $ git clone https://gitlab.com/q3aql/st-config
   $ cd st-config
   $ sudo make install clean
   ````
