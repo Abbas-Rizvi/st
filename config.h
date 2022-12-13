@@ -164,7 +164,7 @@ static const ColorScheme schemes[] = {
 };
 
 static const char * const * colorname;
-int colorscheme = 0;
+int colorscheme = 2;
 
 /*
  * Default colors (colorname index)
@@ -182,7 +182,7 @@ static unsigned int defaultrcs;
  * 6: Bar ("|")
  * 7: Snowman ("☃")
  */
-static unsigned int cursorshape = 2;
+static unsigned int cursorshape = 4;
 
 /*
  * Default columns and rows numbers
